@@ -1,0 +1,28 @@
+{
+    "config": {
+        "range": {
+            "periods": 1,
+            "periodDuration": 0.5
+        },
+        "productionLimits": {
+            "maxProductionPh": 988,
+            "productionFactor": 220,
+            "maxPowerChangePh": 0.2,
+            "minProductionRate": 0.15
+        },
+        "storage": {
+            "initialStorage": 60000,
+            "maxStorage": 61000,
+            "minStorageSetPoint": 60000
+        }
+    },
+    "forecasts": [
+        {
+            "timestamp": "ignored-0",
+            "renewableGeneration": 0.2,
+            "hydrogenDemand": 25,
+            "gridPrice": 80,
+            "renewablePrice": 40
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "simulations": [
+        {
+            "timestamp": "ignored-0",
+            "optimal": {
+                "electricityUsage": {
+                    "wind": 0.11363636,
+                    "grid": 0.0,
+                    "total": 0.11363636
+                },
+                "electricityCost": {
+                    "wind": 2.2727272000000003,
+                    "grid": 0.0,
+                    "total": 2.2727272000000003
+                },
+                "electricityCostCumulative": {
+                    "wind": 2.2727272000000003,
+                    "grid": 0.0,
+                    "total": 2.2727272000000003
+                },
+                "hydrogenProduced": {
+                    "wind": 24.9999992,
+                    "grid": 0.0,
+                    "total": 24.9999992
+                },
+                "hydrogenInStorage": 59999.9999992,
+                "electrolyserOn": true
+            },
+            "hypotheticalWindOnly": {
+                "electricityUsage": {
+                    "wind": 2.2454545454545456,
+                    "grid": 0.0,
+                    "total": 2.2454545454545456
+                },
+                "electricityCost": {
+                    "wind": 44.909090909090914,
+                    "grid": 0.0,
+                    "total": 44.909090909090914
+                },
+                "electricityCostCumulative": {
+                    "wind": 44.909090909090914,
+                    "grid": 0.0,
+                    "total": 44.909090909090914
+                },
+                "hydrogenProduced": {
+                    "wind": 494.00000000000006,
+                    "grid": 0.0,
+                    "total": 494.00000000000006
+                },
+                "hydrogenInStorage": 60469.0,
+                "electrolyserOn": true
+            }
+        }
+    ],
+    "statusOfOptimalModel": "Optimal",
+    "units": {
+        "electricityUsage": "MWh",
+        "electricityCost": "£",
+        "electricityCostCumulative": "£",
+        "hydrogenProduced": "m^3",
+        "hydrogenInStorage": "m^3",
+        "electrolyserOn": null
+    }
+}

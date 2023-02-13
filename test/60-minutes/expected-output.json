@@ -1,0 +1,115 @@
+{
+    "simulations": [
+        {
+            "timestamp": "ignored-0",
+            "optimal": {
+                "electricityUsage": {
+                    "wind": 0.16363636,
+                    "grid": 0.0,
+                    "total": 0.16363636
+                },
+                "electricityCost": {
+                    "wind": 3.2727272000000003,
+                    "grid": 0.0,
+                    "total": 3.2727272000000003
+                },
+                "electricityCostCumulative": {
+                    "wind": 3.2727272000000003,
+                    "grid": 0.0,
+                    "total": 3.2727272000000003
+                },
+                "hydrogenProduced": {
+                    "wind": 35.999999200000005,
+                    "grid": 0.0,
+                    "total": 35.999999200000005
+                },
+                "hydrogenInStorage": 60010.9999992,
+                "electrolyserOn": true
+            },
+            "hypotheticalWindOnly": {
+                "electricityUsage": {
+                    "wind": 2.2454545454545456,
+                    "grid": 0.0,
+                    "total": 2.2454545454545456
+                },
+                "electricityCost": {
+                    "wind": 44.909090909090914,
+                    "grid": 0.0,
+                    "total": 44.909090909090914
+                },
+                "electricityCostCumulative": {
+                    "wind": 44.909090909090914,
+                    "grid": 0.0,
+                    "total": 44.909090909090914
+                },
+                "hydrogenProduced": {
+                    "wind": 494.00000000000006,
+                    "grid": 0.0,
+                    "total": 494.00000000000006
+                },
+                "hydrogenInStorage": 60469.0,
+                "electrolyserOn": true
+            }
+        },
+        {
+            "timestamp": "ignored-0",
+            "optimal": {
+                "electricityUsage": {
+                    "wind": 0.063636364,
+                    "grid": 0.0,
+                    "total": 0.063636364
+                },
+                "electricityCost": {
+                    "wind": 1.27272728,
+                    "grid": 0.0,
+                    "total": 1.27272728
+                },
+                "electricityCostCumulative": {
+                    "wind": 4.54545448,
+                    "grid": 0.0,
+                    "total": 4.54545448
+                },
+                "hydrogenProduced": {
+                    "wind": 14.00000008,
+                    "grid": 0.0,
+                    "total": 14.00000008
+                },
+                "hydrogenInStorage": 59999.99999928,
+                "electrolyserOn": true
+            },
+            "hypotheticalWindOnly": {
+                "electricityUsage": {
+                    "wind": 2.2454545454545456,
+                    "grid": 0.0,
+                    "total": 2.2454545454545456
+                },
+                "electricityCost": {
+                    "wind": 44.909090909090914,
+                    "grid": 0.0,
+                    "total": 44.909090909090914
+                },
+                "electricityCostCumulative": {
+                    "wind": 89.81818181818183,
+                    "grid": 0.0,
+                    "total": 89.81818181818183
+                },
+                "hydrogenProduced": {
+                    "wind": 494.00000000000006,
+                    "grid": 0.0,
+                    "total": 494.00000000000006
+                },
+                "hydrogenInStorage": 60938.0,
+                "electrolyserOn": true
+            }
+        }
+    ],
+    "statusOfOptimalModel": "Optimal",
+    "units": {
+        "electricityUsage": "MWh",
+        "electricityCost": "£",
+        "electricityCostCumulative": "£",
+        "hydrogenProduced": "m^3",
+        "hydrogenInStorage": "m^3",
+        "electrolyserOn": null
+    }
+}

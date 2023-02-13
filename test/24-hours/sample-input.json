@@ -1,0 +1,357 @@
+{
+    "config": {
+        "range": {
+            "periods": 48,
+            "periodDuration": 0.5
+        },
+        "productionLimits": {
+            "maxProductionPh": 988,
+            "productionFactor": 220,
+            "maxPowerChangePh": 0.2,
+            "minProductionRate": 0.15
+        },
+        "storage": {
+            "initialStorage": 60000,
+            "maxStorage": 61000,
+            "minStorageSetPoint": 60000
+        }
+    },
+    "forecasts": [
+        {
+            "timestamp": "ignored-0",
+            "renewableGeneration": 0.2,
+            "hydrogenDemand": 25,
+            "gridPrice": 80,
+            "renewablePrice": 40
+        },
+        {
+            "timestamp": "ignored-1",
+            "renewableGeneration": 0.175,
+            "hydrogenDemand": 25,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-2",
+            "renewableGeneration": 0.15,
+            "hydrogenDemand": 25,
+            "gridPrice": 60,
+            "renewablePrice": 30
+        },
+        {
+            "timestamp": "ignored-3",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 25,
+            "gridPrice": 50,
+            "renewablePrice": 25
+        },
+        {
+            "timestamp": "ignored-4",
+            "renewableGeneration": 0.05,
+            "hydrogenDemand": 25,
+            "gridPrice": 50,
+            "renewablePrice": 25
+        },
+        {
+            "timestamp": "ignored-5",
+            "renewableGeneration": 0.05,
+            "hydrogenDemand": 25,
+            "gridPrice": 50,
+            "renewablePrice": 25
+        },
+        {
+            "timestamp": "ignored-6",
+            "renewableGeneration": 0.05,
+            "hydrogenDemand": 25,
+            "gridPrice": 60,
+            "renewablePrice": 30
+        },
+        {
+            "timestamp": "ignored-7",
+            "renewableGeneration": 0.05,
+            "hydrogenDemand": 25,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-8",
+            "renewableGeneration": 0.05,
+            "hydrogenDemand": 50,
+            "gridPrice": 80,
+            "renewablePrice": 40
+        },
+        {
+            "timestamp": "ignored-9",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 75,
+            "gridPrice": 90,
+            "renewablePrice": 45
+        },
+        {
+            "timestamp": "ignored-10",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 100,
+            "gridPrice": 80,
+            "renewablePrice": 40
+        },
+        {
+            "timestamp": "ignored-11",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 125,
+            "gridPrice": 90,
+            "renewablePrice": 45
+        },
+        {
+            "timestamp": "ignored-12",
+            "renewableGeneration": 0.075,
+            "hydrogenDemand": 150,
+            "gridPrice": 100,
+            "renewablePrice": 50
+        },
+        {
+            "timestamp": "ignored-13",
+            "renewableGeneration": 0.075,
+            "hydrogenDemand": 175,
+            "gridPrice": 110,
+            "renewablePrice": 55
+        },
+        {
+            "timestamp": "ignored-14",
+            "renewableGeneration": 0.05,
+            "hydrogenDemand": 200,
+            "gridPrice": 120,
+            "renewablePrice": 60
+        },
+        {
+            "timestamp": "ignored-15",
+            "renewableGeneration": 0.05,
+            "hydrogenDemand": 200,
+            "gridPrice": 110,
+            "renewablePrice": 55
+        },
+        {
+            "timestamp": "ignored-16",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 175,
+            "gridPrice": 100,
+            "renewablePrice": 50
+        },
+        {
+            "timestamp": "ignored-17",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 150,
+            "gridPrice": 90,
+            "renewablePrice": 45
+        },
+        {
+            "timestamp": "ignored-18",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 100,
+            "gridPrice": 80,
+            "renewablePrice": 40
+        },
+        {
+            "timestamp": "ignored-19",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 50,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-20",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 37.5,
+            "gridPrice": 60,
+            "renewablePrice": 30
+        },
+        {
+            "timestamp": "ignored-21",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 37.5,
+            "gridPrice": 50,
+            "renewablePrice": 25
+        },
+        {
+            "timestamp": "ignored-22",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 37.5,
+            "gridPrice": 50,
+            "renewablePrice": 25
+        },
+        {
+            "timestamp": "ignored-23",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 37.5,
+            "gridPrice": 60,
+            "renewablePrice": 30
+        },
+        {
+            "timestamp": "ignored-24",
+            "renewableGeneration": 0.1,
+            "hydrogenDemand": 50,
+            "gridPrice": 70,
+            "renewablePrice": 25
+        },
+        {
+            "timestamp": "ignored-25",
+            "renewableGeneration": 0.125,
+            "hydrogenDemand": 50,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-26",
+            "renewableGeneration": 0.15,
+            "hydrogenDemand": 60,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-27",
+            "renewableGeneration": 0.175,
+            "hydrogenDemand": 60,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-28",
+            "renewableGeneration": 0.2,
+            "hydrogenDemand": 60,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-29",
+            "renewableGeneration": 0.25,
+            "hydrogenDemand": 60,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-30",
+            "renewableGeneration": 0.3,
+            "hydrogenDemand": 75,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-31",
+            "renewableGeneration": 0.35,
+            "hydrogenDemand": 90,
+            "gridPrice": 80,
+            "renewablePrice": 45
+        },
+        {
+            "timestamp": "ignored-32",
+            "renewableGeneration": 0.4,
+            "hydrogenDemand": 100,
+            "gridPrice": 90,
+            "renewablePrice": 50
+        },
+        {
+            "timestamp": "ignored-33",
+            "renewableGeneration": 0.45,
+            "hydrogenDemand": 110,
+            "gridPrice": 110,
+            "renewablePrice": 55
+        },
+        {
+            "timestamp": "ignored-34",
+            "renewableGeneration": 0.5,
+            "hydrogenDemand": 125,
+            "gridPrice": 120,
+            "renewablePrice": 60
+        },
+        {
+            "timestamp": "ignored-35",
+            "renewableGeneration": 0.6,
+            "hydrogenDemand": 150,
+            "gridPrice": 130,
+            "renewablePrice": 65
+        },
+        {
+            "timestamp": "ignored-36",
+            "renewableGeneration": 0.6,
+            "hydrogenDemand": 175,
+            "gridPrice": 140,
+            "renewablePrice": 70
+        },
+        {
+            "timestamp": "ignored-37",
+            "renewableGeneration": 0.65,
+            "hydrogenDemand": 200,
+            "gridPrice": 140,
+            "renewablePrice": 70
+        },
+        {
+            "timestamp": "ignored-38",
+            "renewableGeneration": 0.7,
+            "hydrogenDemand": 225,
+            "gridPrice": 140,
+            "renewablePrice": 70
+        },
+        {
+            "timestamp": "ignored-39",
+            "renewableGeneration": 0.75,
+            "hydrogenDemand": 250,
+            "gridPrice": 140,
+            "renewablePrice": 70
+        },
+        {
+            "timestamp": "ignored-40",
+            "renewableGeneration": 0.75,
+            "hydrogenDemand": 200,
+            "gridPrice": 120,
+            "renewablePrice": 60
+        },
+        {
+            "timestamp": "ignored-41",
+            "renewableGeneration": 0.8,
+            "hydrogenDemand": 150,
+            "gridPrice": 110,
+            "renewablePrice": 55
+        },
+        {
+            "timestamp": "ignored-42",
+            "renewableGeneration": 0.85,
+            "hydrogenDemand": 100,
+            "gridPrice": 100,
+            "renewablePrice": 50
+        },
+        {
+            "timestamp": "ignored-43",
+            "renewableGeneration": 0.95,
+            "hydrogenDemand": 50,
+            "gridPrice": 90,
+            "renewablePrice": 45
+        },
+        {
+            "timestamp": "ignored-44",
+            "renewableGeneration": 1,
+            "hydrogenDemand": 37.5,
+            "gridPrice": 90,
+            "renewablePrice": 45
+        },
+        {
+            "timestamp": "ignored-45",
+            "renewableGeneration": 1,
+            "hydrogenDemand": 25,
+            "gridPrice": 70,
+            "renewablePrice": 35
+        },
+        {
+            "timestamp": "ignored-46",
+            "renewableGeneration": 1,
+            "hydrogenDemand": 25,
+            "gridPrice": 60,
+            "renewablePrice": 30
+        },
+        {
+            "timestamp": "ignored-47",
+            "renewableGeneration": 1.25,
+            "hydrogenDemand": 25,
+            "gridPrice": 50,
+            "renewablePrice": 25
+        }
+    ]
+}

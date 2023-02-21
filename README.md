@@ -8,6 +8,15 @@ The user story related to Alex - a Hydrogen Production Manager - who is responsi
 
 A Mixed Integer Programming (MIP) problem with a cost function of electrical power and renewable power was determined to be a suitable approach with some assumptions made about the linearity of variables. The model was coded in python using an open source solver, Pulp. Given a forecast of the hydrogen demand, wind power and associated costs, the model calculates how much hydrogen Alex should produce from each power source to minimise cost within a range of physical and policy  constraints. Those constraints for example include minimum and maximum storage limit, and minimum and maximum rate of production. Each time Alex runs the model, he will be provided with a production plan based on the most recent forecast.
 
+### Navigating the Source Code
+
+<ol>
+  <li>`lpmodel.py` - the Mixed Integer Programming Model</li>
+  <li>`data_dictionary.md` - a data schema for the `lpmodel.py`</li>
+  <li>`electricity.py` - data classes for the electricty data</li>
+  <li>`test_lpmodel.py` - unit test classes for the `lpmodel.py`</li>
+</ol>
+
 ### Links
 
 <ol>

@@ -11,10 +11,10 @@ A Mixed Integer Programming (MIP) problem with a cost function of electrical pow
 ### Navigating the Source Code
 
 <ul>
-  <li>`lpmodel.py` - the Mixed Integer Programming Model</li>
-  <li>`data_dictionary.md` - a data schema for the `lpmodel.py`</li>
-  <li>`electricity.py` - data classes for the electricty data</li>
-  <li>`test_lpmodel.py` - unit test classes for the `lpmodel.py`</li>
+  <li> `lpmodel.py` - the Mixed Integer Programming Model</li>
+  <li> `data_dictionary.md` - a data schema for the `lpmodel.py`</li>
+  <li> `electricity.py` - data classes for the electricty data</li>
+  <li> `test_lpmodel.py` - unit test classes for the `lpmodel.py`</li>
 </ul>
 
 ### Links

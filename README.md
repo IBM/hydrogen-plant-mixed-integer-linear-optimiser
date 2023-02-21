@@ -11,5 +11,5 @@ A Mixed Integer Programming (MIP) problem with a cost function of electrical pow
 ### Links
 
 <ol>
-  <li>Ofgem Strategic Innovation Fund: *[https://www.ofgem.gov.uk/strategic-innovation-fund-sif](https://www.ofgem.gov.uk/strategic-innovation-fund-sif)*</li>
+  <li>Ofgem Strategic Innovation Fund: https://www.ofgem.gov.uk/strategic-innovation-fund-sif</li>
 </ol>
